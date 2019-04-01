@@ -1,2 +1,2 @@
-# Diplomarbeit_SPAA
-Diplomarbeit SPAS(Saft-, pasteurisier- und Abfüllanlage)
+# Diplomarbeit_SPAS
+Diplomarbeit SPAS(Saft-, pasteurisier- und Abfüllsystem)
